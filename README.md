@@ -27,7 +27,9 @@ The system consists of a primary API container that communicates with the Docker
 2.  **Runners**: Short-lived containers (Python/Node.js) that execute the code and return output.
 3.  **Automation**: A shell script (`manage.sh`) that manages the entire lifecycle.
 
-## 🔗 Project Documentation
+## 🔗 Project Documentation & Links
+*   **Postman API Collection**: https://drive.google.com/file/d/1c9ZFweKe846CR6jIEDpGtW7379nLFWJz/view?usp=drive_link
+*   **Docker Hub Image**: https://hub.docker.com/r/adarsh1609/polyglot-sandbox-automator
 *   **Developer**: Adarsh Barnawal
 *   **University**: Lovely Professional University
 *   **Graduation Year**: 2027
